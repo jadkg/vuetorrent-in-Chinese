@@ -1,4 +1,4 @@
-# -vuetorrent-in-Chinese
+# vuetorrent in Chinese
 "vuetorrent" v0.12.0 汉化
 
 
