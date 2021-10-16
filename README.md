@@ -3,7 +3,7 @@
 
 
 
-此项目为vuetorrent汉化文件，需配合原作者https://github.com/WDaan/VueTorrent皮肤包，覆盖同名文件即可
+此项目为vuetorrent汉化文件，需配合原作者https://github.com/WDaan/VueTorrent，皮肤包，覆盖同名文件即可
 
 
 
