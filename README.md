@@ -3,7 +3,9 @@
 
 
 
-覆盖同名文件
+此项目为vuetorrent汉化文件，需配合原作者https://github.com/WDaan/VueTorrent皮肤包，覆盖同名文件即可
+
+基本做到了全汉化，在原作者没有大更新的情况下，本项目不再更新
 
 
 
